@@ -23,7 +23,7 @@ div.container-fluid{
     align-items: center;
     justify-content: space-between;
 }
-header{
+header.home{
     background-color: #809094;
 }
 
